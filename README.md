@@ -1,6 +1,6 @@
 # Railway Reservation and Management System
 
-Group No: 5
+``Group No: 5``
 
 Team Members:
 
@@ -68,7 +68,3 @@ if not exist bin mkdir bin
 javac -cp "lib/*" -d bin src/*.java
 java -cp "bin;lib/*" Main
 ```
-
-## Default Test Logins
-- **Admin**: username `admin`, password `admin123`
-- **Passenger**: username `john`, password `pass123`
