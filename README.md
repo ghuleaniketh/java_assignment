@@ -1,6 +1,19 @@
 # Railway Reservation and Management System
 
-A simple Java Swing & PostgreSQL college assignment project.
+Group No: 5
+
+Team Members:
+
+| S.No | Name | ID No |
+|------|------|-------|
+| 1 | Ghule Aniketh | AP24110011410 |
+| 2 | Mrutyunjay Manas Sahu | AP2411001110101 |
+| 3 | Navya Sri Pabbineedi | AP24110011370 |
+| 4 | Neeli Harini | AP24110011347 |
+| 5 | Akshaya Kandhagatla | AP24110011495 |
+| 6 | Bhima Sai Venya | AP24110011527 |
+
+Technologies: Java, Swing, JDBC, PostgreSQL
 
 ## Project Structure
 ```
@@ -23,7 +36,7 @@ RailwayReservationSystem/
 └── README.md
 ```
 
-## How to Setup and Run
+ How to Setup and Run
 
 ### 1. Database Setup
 1. Install **PostgreSQL** and open **pgAdmin**.
